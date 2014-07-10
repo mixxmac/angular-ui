@@ -177,3 +177,5 @@ For more information visit: https://github.com/karlgoldstein/grunt-html2js
 * publish Bower and NuGet packages
 
 Well done! (If you don't like repeating yourself open a PR with a grunt task taking care of the above!)
+
+[ ![Codeship Status for mixxmac/angular-ui](https://www.codeship.io/projects/b69ab670-e9f2-0131-9e8a-62eb10f3dfa4/status)](https://www.codeship.io/projects/26266)
